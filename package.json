@@ -1,0 +1,14 @@
+{
+  "name": "multiply",
+  "version": "1.0.0",
+  "description": "to learn npx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "multiply": "bin/index.js"
+  },
+  "author": "dev emeka",
+  "license": "ISC"
+}
